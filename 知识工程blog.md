@@ -26,7 +26,7 @@
 
 Team AI并非简单地将AI工具引入开发流程，而是对现有协作模式的重构。它并非旨在取代人类工程师，而是通过AI赋能，让人与机器各展所长，实现更高效、更智能的协同。
 
-![AI4SE新的协作范式](https://github.com/jkang/blogs/blob/5544394aeed82a995baba84161b30a35c2046125/005.jpeg)
+![AI4SE新的协作范式](https://raw.githubusercontent.com/jkang/blogs/main/005.jpeg)
 
 #### **1. 角色融合：人人都是“全栈+专家”**
 
@@ -47,7 +47,7 @@ Team AI的另一个显著特征是，引入了自动化Agent作为团队的新�
 *   **Team AI 平台**：提供 Agent成员模版、Agent成员定制管理、Agent Team构建、Agent成员共享等。
 *   **AI增强的团队工作台：** 这是团队人类成员与AI Agent协作的交互界面，给Agent分配任务，查看结果，给Agent反馈，与 Agent 探讨协作完成任务。
 
-![Team AI全景示意](https://github.com/jkang/blogs/blob/5544394aeed82a995baba84161b30a35c2046125/006.jpeg)
+![Team AI全景示意](https://raw.githubusercontent.com/jkang/blogs/main/006.jpeg)
 
 ### **二、知识工程：Team AI的基石**
 
@@ -57,7 +57,7 @@ Team AI的另一个显著特征是，引入了自动化Agent作为团队的新�
 
 研发知识工程，是指对企业内部的研发数据进行系统化的治理、挖掘、应用、管理和迭代，构建一个能够支撑AI Agent运行的知识体系。与传统的知识管理不同，研发知识工程更加强调知识的动态性、情境性和可演化性。它不是一次性的建设工程，而是一个持续迭代、不断完善的循环过程。在这个过程中，AI大模型将发挥至关重要的作用，加速知识的获取、处理和应用。
 
-![研发知识工程](https://github.com/jkang/blogs/blob/5544394aeed82a995baba84161b30a35c2046125/009.jpeg)
+![研发知识工程](https://raw.githubusercontent.com/jkang/blogs/main/009.jpeg)
 
 研发知识工程的核心活动主要包括以下几个方面：
 
@@ -81,7 +81,7 @@ Team AI的另一个显著特征是，引入了自动化Agent作为团队的新�
 *   **按数据/知识类型做技术设计：** 不同的数据类型和知识类型，需要采用不同的技术进行处理和存储。例如，对于非结构化文本，可以采用自然语言处理技术进行分析和提取；对于结构化数据，可以采用关系数据库或图数据库进行存储。
 *   **按应用场景规划按需构建：** 知识库的建设应以实际应用场景为导向，优先满足那些能够带来最大价值的场景。避免盲目追求“高大上”的技术，而忽略了实际的业务需求。
 
-![研发知识工程落地的原则](https://github.com/jkang/blogs/blob/5544394aeed82a995baba84161b30a35c2046125/013.jpeg)
+![研发知识工程落地的原则](https://raw.githubusercontent.com/jkang/blogs/main/013.jpeg)
 
 #### **4. 案例：Haiven™助力需求分析与知识工程闭环**
 
@@ -108,12 +108,12 @@ Thoughtworks推出的Haiven™平台，为企业提供了一站式的Team AI构�
 
 这些Agent协同工作，形成了一个完整的需求分析流程。
 
-![案例 - Team Evolve](https://github.com/jkang/blogs/blob/5544394aeed82a995baba84161b30a35c2046125/015.jpeg)
+![案例 - Team Evolve](https://raw.githubusercontent.com/jkang/blogs/main/015.jpeg)
 
 
 ##### **知识工程闭环**
 
-![案例-知识闭环](https://github.com/jkang/blogs/blob/5544394aeed82a995baba84161b30a35c2046125/015.jpeg)
+![案例-知识闭环](https://raw.githubusercontent.com/jkang/blogs/main/016.jpeg)
 
 该项目的关键在于，利用大模型实现知识工程的闭环：
 
@@ -127,7 +127,7 @@ Thoughtworks推出的Haiven™平台，为企业提供了一站式的Team AI构�
 5.  **知识更新：** 知识运营官/工程师根据AI的建议，对知识库进行更新和维护。
 6.  **持续迭代：** 更新后的知识库再次被Agent使用，形成一个持续改进的闭环。
 
-[演示视频](https://github.com/jkang/jkang/blob/193395c217233c64bba4934afa9fe9d266e7abb0/output2.mp4)
+[演示视频](https://raw.githubusercontent.com/jkang/blogs/main/output2.mp4)
 
 ##### **实施TeamAI和知识工程的成效收益**
 
